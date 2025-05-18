@@ -33,10 +33,12 @@
 ## Input:
 
 ### Output:
+![image](https://github.com/user-attachments/assets/acf91def-0251-45b8-872f-8769800954d5)
 
 
-### Name:
-### Register Number:
+### Name: ESAKKINDHAR A
+### Register Number: 212224040085
 
 ## RESULT:
 ###   Thus the given product is reverse engineered and prototyped using 3D Printer.
+
